@@ -1,0 +1,17 @@
+taken:"Taken" src="http://copiapop.com/Koba1994/trilogia-taken-venganza-94062/list,1,2";
+zorro:"El Zorro" src="http://copiapop.com/Koba1994/saga-del-zorro-103230/list,1,2";
+men:"Men In Black" src="http://copiapop.com/Koba1994/trilogia-men-in-black-96366/list,1,2";
+baila:"Cine Musical" src="http://copiapop.com/juanleiva/cine-musical-microhd-castellano-85452/list,1,2";
+ocultos:"Jovenes Ocultos" src="http://copiapop.com/Koba1994/trilogia-jovenes-ocultos-94180/list,1,2";
+dunde:"Cocodrilo Dundee" src="http://copiapop.com/Koba1994/trilogia-de-cocodrilo-dundee-94063/list,1,2";
+agarralo:"Agarralo como puedas" src="http://copiapop.com/Koba1994/trilogia-agarralo-como-puedas-93511/list,1,2";
+amanecer:"Abierto hasta el amanecer" src="http://copiapop.com/Koba1994/trilogia-abierto-hasta-el-amenecer-93492/list,1,2";
+historia:"La Historia Interminable" src="http://copiapop.com/Koba1994/trilogia-la-historia-interminable-93489/list,1,2";
+mariachi:"El Mariachi" src="http://copiapop.com/Koba1994/trilogia-del-mariachi-93485/list,1,2";
+porky:"Porky's" src="http://copiapop.com/Koba1994/trilogia-porkys-93482/list,1,2";
+ocean:"Ocean's" src="http://copiapop.com/Koba1994/trilogia-de-ocean-93480/list,1,2";
+padres:"Los Padres" src="http://copiapop.com/Koba1994/trilogia-de-los-padres-93477/list,1,2";
+rambo:"Acorralado" src="http://copiapop.com/Koba1994/saga-de-rambo-93124/list,1,2";
+hani:"Hannibal Lecter" src="http://copiapop.com/Koba1994/saga-de-hannibal-lecter-90674/list,1,2";
+star:"Star Wars" src="http://copiapop.com/Koba1994/saga-star-wars-42296/list,1,2";
+ 
